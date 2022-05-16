@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API mock with MirageJS
 - useContext to input and get transactions data
 - Summary feature
+- useTransactions hook
 
 ### Changed
 
