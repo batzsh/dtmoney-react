@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - New transaction modal
 - Global modal styling
+- Income & outcome buttons
+- API mock with MirageJS
+- useContext to input and get transactions data
 
 ### Changed
 
